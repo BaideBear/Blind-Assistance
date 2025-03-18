@@ -1,0 +1,7 @@
+/home/HwHiAiUser/lier_workload/ascend-yolov8-sample/src/CMakeFiles/main.dir
+/home/HwHiAiUser/lier_workload/ascend-yolov8-sample/src/CMakeFiles/edit_cache.dir
+/home/HwHiAiUser/lier_workload/ascend-yolov8-sample/src/CMakeFiles/rebuild_cache.dir
+/home/HwHiAiUser/lier_workload/ascend-yolov8-sample/src/CMakeFiles/list_install_components.dir
+/home/HwHiAiUser/lier_workload/ascend-yolov8-sample/src/CMakeFiles/install.dir
+/home/HwHiAiUser/lier_workload/ascend-yolov8-sample/src/CMakeFiles/install/local.dir
+/home/HwHiAiUser/lier_workload/ascend-yolov8-sample/src/CMakeFiles/install/strip.dir

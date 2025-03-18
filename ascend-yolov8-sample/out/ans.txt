@@ -1,0 +1,2 @@
+Name: captured_image.jpg, boxName:bicycle, Original Width: 640, Original Height: 480, X: 343, Y: 183, Width: 100.75, Height: 118.5,distance: 3m
+
